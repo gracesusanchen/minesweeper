@@ -1,0 +1,16 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "This is just an implementation of minesweeper in the console with nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0"
+  }
+}
